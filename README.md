@@ -264,42 +264,6 @@ Responsible for:
 - Linux
 - GPU Servers
 
----
-
-# Token Consumption Estimation
-
-The platform is designed as a high-frequency, long-context, multi-agent AI system.
-
-Typical daily token consumption:
-
-| Task Type | Estimated Daily Tokens |
-|---|---|
-| Trend Analysis | 2M |
-| Multi-language Translation | 3M |
-| Long-form Story Generation | 5M |
-| Video Prompt Generation | 2M |
-| Comment Sentiment Analysis | 4M |
-| Advertising Optimization | 3M |
-| Multi-Agent Collaboration | 5M |
-| Persistent Memory Retrieval | 2M |
-
-Estimated total daily usage:
-
-# 20M – 30M Tokens / Day
-
-Main token consumption sources:
-
-- Long-context reasoning
-- Multi-agent conversations
-- Large-scale content rewriting
-- Story continuation
-- Multi-language localization
-- A/B testing
-- Prompt optimization
-- Continuous memory retrieval
-
----
-
 # Roadmap
 
 ## Phase 1
@@ -362,48 +326,6 @@ https://www.reddit.com/r/openclaw/comments/1rtlel1/multiagent_memory_open_source
 
 ---
 
-# Suggested Demo Content
-
-## Workflow Screenshots
-
-Recommended screenshots:
-
-- Agent workflow execution
-- Multi-agent conversations
-- Trend analysis dashboard
-- Script generation interface
-- AI video generation results
-- Multi-language outputs
-- A/B testing dashboard
-- ROI analytics panel
-
----
-
-# Suggested GitHub Repository Structure
-
-```text
-ai-content-factory/
-│
-├── README.md
-├── architecture/
-│   ├── system_architecture.png
-│   ├── workflow.png
-│   └── agent_flow.png
-│
-├── docs/
-│   ├── token_usage.md
-│   ├── roadmap.md
-│   └── deployment.md
-│
-├── backend/
-├── frontend/
-├── agents/
-├── workflows/
-└── demo/
-```
-
----
-
 # Future Goals
 
 The project aims to build a scalable AI-native content production infrastructure capable of:
@@ -417,4 +339,3 @@ The project aims to build a scalable AI-native content production infrastructure
 
 The long-term vision is to reduce the operational complexity of content creation and advertising by leveraging large-context reasoning, persistent memory, and multi-agent collaboration.
 
-# ai-content-factory
